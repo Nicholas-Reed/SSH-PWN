@@ -1,5 +1,5 @@
 # SSH-PWN
-simple ssh brute forcing tool
+A simple python 3 ssh brute forcing tool
 
 
 
